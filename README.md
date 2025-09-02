@@ -1,4 +1,4 @@
-# MIT Academy of Engineering - Smart Attendance System
+#  Smart Attendance System
 
 ## Installation
 
